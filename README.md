@@ -3,7 +3,7 @@
 
 - Minden jog fenntartva © Dér Dávid 2021
 
-**Kód részlet:**
+__**HTML kód részlet:**__
 ```html
 <table class="u-table-entity u-table-entity-1">
             <colgroup>
