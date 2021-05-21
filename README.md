@@ -93,3 +93,4 @@ __**HTML kód részlet:**__
             </tbody>
           </table>
 ```
+*A kódot szerzői jog védi lemásolni **TILOS**!*
